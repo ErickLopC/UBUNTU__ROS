@@ -8,7 +8,7 @@
 
 
 ### [ROS-NOETIC](http://wiki.ros.org/noetic/Installation/Ubuntu)
-
++ Gazebo _SE INSTALA POR DEFAULT_
 ### RASBY
 
 ### [RAS-UBUN-ROS](https://github.com/ErickLopC/ROS_RASPY)
