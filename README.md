@@ -4,8 +4,10 @@
 ## ---------------------  Istalacion de ROS
 ### Windows
 
+-----------------------------------------------
 
-**RECORDAR**
+**RECORDAR REINICIAR EL EQUIPO DESPUES DE UNA INSTALACION, TAMBIEN ACUALIZAR EL CMD CON LOS COMANDOS MAGICOS, TAMBIEN ACTUALIZAR SI EL SISTEMA EN SU VERSION NORMAL**
+--------------------------------------------------
 
 #### Intalacion de ubuntu(ros melodic) junto a windows
 
