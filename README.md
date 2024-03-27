@@ -4,6 +4,9 @@
 ## ---------------------  Istalacion de ROS
 ### Windows
 
+
+**RECORDAR**
+
 #### Intalacion de ubuntu(ros melodic) junto a windows
 
 
